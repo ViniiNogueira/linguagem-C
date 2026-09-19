@@ -58,13 +58,6 @@ gcc arquivo.c -o arquivo.exe
 ./arquivo.exe
 ```
 
-Exemplo:
-
-```bash
-gcc algoritmos/Introducao-linguagem-C.c -o hello
-./hello
-```
-
 ## Observação
 
 Este repositório é um material de estudo para a faculdade e contém apenas exemplos básicos para se acostumar com a sintaxe da linguagem C.
