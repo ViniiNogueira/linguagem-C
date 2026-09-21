@@ -13,22 +13,6 @@ O objetivo deste projeto é ajudar no aprendizado de C com exemplos simples de:
 - funções
 - manipulação de strings
 
-## Estrutura do projeto
-
-```text
-Linguagem-C/
-├── algoritmos/
-│   ├── Introducao-linguagem-C.c
-│   ├── Introducao-linguagem-C-condicionais-SWITCH.c
-│   ├── arrays-e-strings/
-│   │   ├── Introducao-linguagem-C-arrays.c
-│   │   ├── string-limpeza-buffer-linguagem-C.c
-│   │   └── strings-entrada-scaf-linguagem-C.c
-│   └── funcao/
-│       └── Introducao-funcoes-linguagem-C.c
-└── video-aulas/
-```
-
 ## Conteúdo principal
 
 ### Algoritmos básicos
